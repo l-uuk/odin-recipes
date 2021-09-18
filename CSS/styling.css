@@ -1,0 +1,23 @@
+* {
+    background-color: #EF9FAD;
+    font-family: Arial;
+}
+
+.header {
+    font-size: 240px;
+    color: #EFE19F;
+}
+
+.link {
+    font-size: 35px;
+    color: #EFB99F; 
+}
+
+.image {
+    height: auto;
+    width: 240px;
+}
+
+.h2 {
+    color: #ADEF9F;
+}
